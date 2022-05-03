@@ -1,0 +1,22 @@
+Accountant
+Business Analyst
+Charity Officer 
+Animation
+Civil Engineer
+Nurse
+Chef
+IT Consultant
+Solicitor 
+Security Guard
+Personal Trainer
+Market Research
+Film
+Book Seller
+Scientist 
+Sales Assistant
+Social Care Worker
+Teacher
+Flight Attendant
+Train set: 57 jobs, 57 CVs?
+Test set: 19 jobs, 19 CVs?
+I used my own webscraper to get the data!
