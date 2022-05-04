@@ -1,8 +1,11 @@
-Documentation:
-This file is just under the 50mb limt on QM
+Juypter Notepads:
+NER testrig: Create test and train data from Jsons
 
-First unzip data.zip into data folder.
-Then access NER testrig as a juypter notepad.
+Data:
+Train.spacy = Training data converted into Spacy format
+Test.spacy = Training data converted into spacy format
+train.jsonl = annotaed training data
+test.jsonl = annotated testing data
 
-Creating pre-Annoted Datasets was used to created annotated data for NLP model
-In combination with Doccano
+directory:
+output = output for NER training (model-last)
